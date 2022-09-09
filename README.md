@@ -23,6 +23,6 @@ Rock类，石头类；
 
 通关失败：点击鼠标左键重新开始，但刷新关卡数；
 
-##素材来源：https://www.bilibili.com/video/BV1n34y1t7EZ?p=29&vd_source=0603b76713949987efcb6f8efb081115
+##素材来源：[https://www.bilibili.com/video/BV1n34y1t7EZ?p=29&vd_source=0603b76713949987efcb6f8efb081115](https://blog.csdn.net/weixin_48143996/article/details/121821223)
 
 注意事项：可能有时候抓钩未加载出来，重新运行程序即可。
